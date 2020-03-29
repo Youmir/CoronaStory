@@ -1,0 +1,21 @@
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv
+.venv
+app/
+.vscode/
+
+
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite3
+
+
